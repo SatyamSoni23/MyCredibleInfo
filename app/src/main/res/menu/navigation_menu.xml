@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/updatePassword"
+        android:icon="@drawable/ic_update_black_24dp"
+        android:title="Update Password">
+    </item>
+    <item
+        android:id="@+id/deleteAccount"
+        android:icon="@drawable/ic_delete_forever_black_24dp"
+        android:title="Delete Account">
+    </item>
+</menu>
